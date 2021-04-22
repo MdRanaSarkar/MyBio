@@ -1,0 +1,45 @@
+এখানে আমি জ্যাঙ্গো দিয়ে ফুল একটা ওয়েবসাইট ডেভেলপ করে দেখাবো । 
+আশা করি আপনিও সাথে সাথে বেশ শিখতে পারবেন । 
+
+
+Go ahead , Great Congrats 
+
+▶️ How to Install Python : 
+https://www.youtube.com/watch?v=lVsCX0WyQt0&list=PLZ4kRpKj_xF6jzES0o-0ymUz5huwyuaaD&index=1
+▶️ How to create virtual Environment :
+https://www.youtube.com/watch?v=wC0_3WKsZJ0&list=PLZ4kRpKj_xF4kZv3PRJh3vjJMUknqB_Ec&index=12
+
+-----------------------------------------------------------------------------------------------------------------
+🔴 Django REST Framework:
+https://www.youtube.com/watch?v=Ax7n4N-R-9g
+
+⭐️ Another also:
+⭐️ Django Full Ecommerce :
+https://www.youtube.com/playlist?list=PLZ4kRpKj_xF4kZv3PRJh3vjJMUknqB_Ec
+
+⭐️ Django CRUD operations Learn:
+https://www.youtube.com/watch?v=ScPgQEX6Qzg&list=PLZ4kRpKj_xF7mSaWw_aIabKHw5a6Pob3W
+
+⭐️ Django To Heroku series:
+https://www.youtube.com/watch?v=A3yjzYw9aHk&list=PLZ4kRpKj_xF6hjp4jnujDu7bu78tz7gmQ
+
+⭐️ Django to cPanel:
+https://www.youtube.com/watch?v=z26k8eZrp28&list=PLZ4kRpKj_xF7mxElwijfh5Ubuh2uUE_bY
+
+Any Query Contact With us:
+💌  https://www.facebook.com/EasyCSELearn
+Direct Contact with me:
+💌  https://www.linkedin.com/in/rana-sarkar-b8b51a190/
+
+
+
+
+tags:
+
+
+জ্যাঙ্গো রিয়াল লাইফ ফুল প্রজেক্ট,জ্যাঙ্গো,জ্যাঙ্গো
+লাইফ প্রজেক্ট,জ্যাঙ্গ বাংলা,জ্যাঙ্গ বাংলা প্রজেক্ট,বাংলায় জ্যাঙ্গ শিখি,পাইথন জ্যাঙ্গ বাংলা,পাইথন বাংলা,Django Bangla Real Life projects,Django Bangla,Python Django Bangla,Django Latest Version,Django constructions Projecs,Django 3.3.1,Python Bangla,Django Real Projects in Bangla,Django REST framework Bangla,জ্যাঙ্গো প্রজেক্ট,জ্যাঙ্গো প্রজেক্ট বাংলা,bd django learners
+
+
+
+

@@ -1,0 +1,16 @@
+Date :25/01/2021
+Hiring ManagerKona Software Lab Ltd.
+Police Plaza Concord, TowerPlot-2, Road-144, Dhaka 
+Dear Sir, 
+I'm writing to express my interest in the position as a programmer  at Kona Software Lab Ltd. in Dhaka . I was pleased to find the vacancy on the Linkedin post from Kona Software Lab Ltd. To shortly introduce myself , my name is Md Rana Sarkar , I'm a fresh graduate  from RUET at the CSE department . From my university life, I was responsible for programming &  overseeing the development of innovative systems architecture via Python,  Django , Django REST Framework , HTML5, MySQL,CSS, CSS3/SASS JavaScript.In my university life,  I worked part-time with the TrippleDev software development team as Python Developer & when  due to Corona Epidemic, my university was closed for long time then I have worked full-time with TrippleDev  Software Development Team as also Python Developer. I have solved lot of problems from online Judge &  developed more than 5 projects using Django & Django REST Framework as Backend &  HTML,CSS,CSS3/SASS ,javascript as usual front end & completed my research on Credit Card Fraud Detection Using machine learning & Deep Learning with Python.
+Some of my personal qualities which you may find useful for this role are:
+- Ability to learn quickly coupled with innovative ideas for problem solving
+- Ability to work in a team with strong communication skills
+- Hardworking and sincere towards work with an ability to take directions  
+In the attachment , you can find my  resume. I would  welcome the opportunity to discuss your needs and how I might best fill them. I can be reached anytime via my cell phone, 01704246120 or via email at ranasarkar1503031@gmail.com or 1503031@student.ruet.ac.bd .
+Thank you for your time & consideration. 
+ Sincerely Regards
+Md Rana Sarkar
+RUET, Rajshahi 
+01704246120
+ranasarkar1503031@gmail.com .

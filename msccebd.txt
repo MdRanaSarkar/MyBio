@@ -1,0 +1,5 @@
+
+database name : mscebdco_mscebd
+
+username: saeed
+password : mscebd1234@
